@@ -1,3 +1,5 @@
+-> Download both the 8 puzzle solver.exe and input.txt in the same directory.
+
 -> Use the input.txt file to give the initial state.
 
 -> The final state is set by default to:
